@@ -1,0 +1,149 @@
+body{
+	background-repeat:no-repeat center center fixed #000; ;
+	 background-size: cover;
+}
+#genel{
+	width:990px;
+	height:auto;
+	margin:auto;
+	
+	
+	
+}
+.ust{
+	width:990px;
+	height:300px;
+	background:black;
+    border-radius:10px;
+	
+}
+.menu{
+	margin-top:-16px;
+	width:990px;
+	height:80px;
+	background:black;
+	margin-bottom:20px;
+	border-radius:10px ;
+	
+	
+	
+}
+.menu  ul {
+	list-style:none;
+}
+.menu  ul  li {
+float:left;
+width:120px;
+height:40px;
+padding:10px;
+margin:10px;
+background:black;
+position:relative;
+line-height:27px;
+border:1px solid #FFD700;
+
+
+}
+
+.menu  ul  li a{
+	text-decoration:none;
+	color:white;
+    font:bold 15px verdana;
+    
+}
+
+.menu  ul li ul {
+	display:none;
+	position:absolute;
+	top:57px;
+	right:0;
+	
+}
+.menu  ul li:hover ul {
+	display:block;
+}
+
+.menu ul li:hover {
+	background:#bb88e7;
+	transition:ease-in 0.3s;
+
+}
+
+
+
+
+.icerik{
+	width:990px;
+	height:auto;
+}
+.icerik-sag{
+	width:400px;
+	min-height:100px;
+	background:black;
+	float:right;
+	margin-left:10px;
+    border-radius:10px
+}
+
+.icerik-sag h1{
+	border:1px solid #FFD700;
+	background:black;
+	text-align:center;
+	margin:0px;
+	font:bold 40px verdana;
+	color:white
+	
+}
+.icerik-sag ul li{
+ width:370px;
+ border:1px solid #FFD700;
+ margin:5px;
+ padding:10px;
+ list-style:none;
+ background:#bb88e7;
+}
+.icerik-sag ul li a{
+text-decoration:none;
+font:bold 20px verdana;
+color:black;
+}
+.icerik-sag ul li:hover{
+	background:#f7d5df;
+	transition:ease-in 0.3s;
+}
+
+.icerik-sag ul {
+	
+margin:0px;
+padding:0px;
+}
+	 
+
+.alt{
+	width:990px;
+	height:120px;
+	background:black;
+	float:left;
+	margin-top:15px;
+	margin-bottom:15px;
+	text-align:center;
+	font:10px bold arial ;
+	color:white;
+	border-radius:10px 10px 10px;
+	box-shadow:5px 5px 20px;
+}
+	
+.icerik-icerik{
+	width:500px;
+	min-height:350px;
+	background:black;
+    font:bold 30px arial;
+    color:white;
+	margin-bottom:20px;
+	margin-top:10px;
+	padding:10px;
+	border-radius:10px 10px 10px ;
+	box-shadow:5px 5px 20px;
+	
+}
+

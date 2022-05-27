@@ -1,0 +1,130 @@
+body{
+	background-repeat:no-repeat center center fixed #000; ;
+	 background-size: cover;
+}
+#genel{
+	width:990px;
+	height:auto;
+	margin:auto;
+	
+	
+	
+}
+.ust{
+	width:990px;
+	height:300px;
+	background:black;
+    border-radius:10px;
+	
+}
+.menu{
+	margin-top:-16px;
+	width:990px;
+	height:80px;
+	background:black;
+	margin-bottom:20px;
+	border-radius:10px ;
+	
+	
+	
+}
+.menu  ul {
+	list-style:none;
+}
+.menu  ul  li {
+float:left;
+width:120px;
+height:40px;
+padding:10px;
+margin:10px;
+background:black;
+position:relative;
+line-height:27px;
+border:1px solid #FFD700;
+
+
+}
+
+.menu  ul  li a{
+	text-decoration:none;
+	color:white;
+    font:bold 15px verdana;
+    
+}
+
+.menu  ul li ul {
+	display:none;
+	position:absolute;
+	top:57px;
+	right:0;
+	
+}
+.menu  ul li:hover ul {
+	display:block;
+}
+
+.menu ul li:hover {
+	background:#bb88e7;
+	transition:ease-in 0.3s;
+
+}
+
+
+
+
+
+.alt{
+	width:990px;
+	height:120px;
+	background:black;
+	float:left;
+	margin-top:20px;
+	margin-bottom:10px;
+	font:30px;
+	color:white;
+	border-radius:10px 10px 10px;
+	box-shadow:5px 5px 20px;
+	text-decoration:none;
+	list-style:none;
+    font:bold 20px verdana;
+    color:white;
+	
+}
+.alt a{
+	text-decoration:none;
+	list-style:none;
+    font:bold 20px verdana;
+    color:white; 
+}
+	
+
+.alt{
+	width:990px;
+	height:120px;
+	background:black;
+	float:left;
+	margin-top:20px;
+	margin-bottom:10px;
+	font:30px;
+	color:white;
+	border-radius:10px 10px 10px;
+	box-shadow:5px 5px 20px;
+    font:bold 20px verdana;
+    color:white; 
+
+}
+.alt{
+	width:990px;
+	height:120px;
+	background:black;
+	float:left;
+	margin-top:20px;
+	margin-bottom:10px;
+	font:30px;
+	color:white;
+	border-radius:10px 10px 10px;
+	box-shadow:5px 5px 20px;
+    font:bold 20px verdana;
+    color:white; 
+}
+	
